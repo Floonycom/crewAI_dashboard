@@ -1,0 +1,21 @@
+# Dépendances du projet CrewAI
+openai
+crewai
+streamlit
+pandas
+numpy
+requests
+beautifulsoup4
+scrapy
+selenium
+flask
+fastapi
+uvicorn
+pytest
+pytest-mock
+notion-client
+airtable-python-wrapper
+matplotlib
+plotly
+scipy
+scikit-learn
