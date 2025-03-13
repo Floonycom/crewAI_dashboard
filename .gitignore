@@ -1,3 +1,32 @@
+# Ignorer les environnements virtuels
 venv/
-venv/
-venv/
+.env
+.DS_Store
+
+# Ignorer les fichiers temporaires, logs et caches
+__pycache__/
+*.pyc
+*.pyo
+*.log
+logs/
+data/
+exports/
+
+# Ignorer les fichiers volumineux et sensibles
+*.sqlite3
+*.db
+*.csv
+*.json
+*.xlsx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+*.zip
+
+# Ignorer VS Code et MacOS fichiers système
+.vscode/
+.DS_Store
